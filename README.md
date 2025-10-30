@@ -1,5 +1,5 @@
 # Portfolio 💥
-## Showcase of my skills and projects. 
-### Made with HTML, CSS, Tailwind and JavaScript.
+## Presentación de mis habilidades y proyectos.. 
+### Creado con HTML, CSS, Tailwind y JavaScript.
 
-Live Version: http://gabitodev.github.io/portfolio/
+Live Version: https://cmontillagarcia.github.io/Portafolio/
